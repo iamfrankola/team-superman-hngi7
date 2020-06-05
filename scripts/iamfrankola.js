@@ -1,4 +1,4 @@
-var name = 'Kolapo Francis Uthman';
+var fullName = 'Kolapo Francis Uthman';
 var id = 'HNG-03952';
 var language = 'Javascript';
 var email = 'iamfrankola@mail.com';
